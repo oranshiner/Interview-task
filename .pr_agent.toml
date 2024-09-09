@@ -1,0 +1,7 @@
+enable_custom_labels=true
+
+[custom_labels."SQL quary"]
+description = "Adds or modiify SQL quary"
+
+[custom_labels."Secret key"]
+description = "Adds a secret key"
